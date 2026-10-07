@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "Productos": [
+      {
+        "Id": 1,
+        "Nombre": "Limon",
+        "precio": 15,
+        "Cantidad": 4
+      },
+      {
+        "Id": 2,
+        "Nombre": "Peras",
+        "precio": 105,
+        "Cantidad": 2
+      }
+    ],
+    "Subtotal": 0,
+    "Impuestos": 0,
+    "Total": 0,
+    "Estado": "Cancelado"
+  },
+  {
+    "Id": 2,
+    "Productos": [
+      {
+        "Id": 2,
+        "Nombre": "Salame induveca",
+        "precio": 130,
+        "Cantidad": 2
+      }
+    ],
+    "Subtotal": 0,
+    "Impuestos": 0,
+    "Total": 0,
+    "Estado": "Activo"
+  },
+  {
+    "Id": 3,
+    "Productos": [],
+    "Subtotal": 0,
+    "Impuestos": 0,
+    "Total": 0,
+    "Estado": "Activo"
+  },
+  {
+    "Id": 4,
+    "Productos": [],
+    "Subtotal": 0,
+    "Impuestos": 0,
+    "Total": 0,
+    "Estado": "Activo"
+  }
+]
